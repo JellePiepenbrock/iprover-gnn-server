@@ -22,3 +22,7 @@ and test iProver against it using, for example,
 
 	cd experiments
 	./iprover_solo.sh 15 1000 matrix_8__t32_matrix_8 result
+
+# Gitlab
+
+This is a mirror of https://gitlab.ciirc.cvut.cz/chvalkar/iprover-gnn-server
